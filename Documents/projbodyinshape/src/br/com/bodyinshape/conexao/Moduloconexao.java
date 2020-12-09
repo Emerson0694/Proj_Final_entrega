@@ -14,7 +14,7 @@ public class Moduloconexao {
 
         String url = "jdbc:mysql://localhost:3306/bdbody";// Variavél url descreve o caminho e o nome do banco
         String user = "root"; // String user descreve o usuário que pode acessar o banco
-        String password = ""; // Variavél password descreve a senha de conexão com o banco, porem deixei vazia
+        String password = " "; // Variavél password descreve a senha de conexão com o banco, porem deixei vazia
         
    // O CÓDIGO ABAIXO ESTABELECE CONEXÃO COM O BANCO DE DADOS
         try {
